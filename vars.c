@@ -36,7 +36,7 @@ return (1);
 }
 
 /**
- * check_chain – it checks if we should continue chaining based on the last status
+ * check_chain – it checks if we should continue chaining
  * @info: parameter structure
  * @buf: character buffer
  * @p: address of the current position in the buffer
@@ -140,7 +140,7 @@ return (0);
 }
 
 /**
- * replace_string – replaces the string
+ * replace_string – replaces the string inputed
  * @old: address of the old string
  * @new: new string
  *
